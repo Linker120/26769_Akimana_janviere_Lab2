@@ -145,3 +145,6 @@ Ring?
 - Windows
 - Visual Studio with the **.NET desktop development** workload
 - .NET Framework / .NET with Windows Forms support
+
+Thank you so much
+...
