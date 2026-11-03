@@ -4,8 +4,8 @@ A C# Windows Forms desktop application (namespace `janviere`) built for **Lab 1*
 
 ## Author
 
-- **Name:** [your name]
-- **Student number:** [your student number]
+- **Name:** Janviere Akimana 
+- **Student number:** 26769
 - **Course:** Information Technology, Adventist University of Central Africa (AUCA)
 
 ## Features
@@ -145,3 +145,6 @@ Ring?
 - Windows
 - Visual Studio with the **.NET desktop development** workload
 - .NET Framework / .NET with Windows Forms support
+
+Thank you so much for visiting my Repository.
+---
