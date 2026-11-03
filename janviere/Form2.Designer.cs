@@ -38,7 +38,7 @@
             label1.AutoSize = true;
             label1.Font = new Font("Segoe UI Light", 12F, FontStyle.Italic, GraphicsUnit.Point, 0);
             label1.ForeColor = Color.Black;
-            label1.Location = new Point(186, 60);
+            label1.Location = new Point(218, 82);
             label1.Name = "label1";
             label1.Size = new Size(285, 28);
             label1.TabIndex = 0;
@@ -48,9 +48,9 @@
             // 
             btnrental.BackColor = Color.Lime;
             btnrental.ForeColor = Color.Black;
-            btnrental.Location = new Point(141, 255);
+            btnrental.Location = new Point(126, 214);
             btnrental.Name = "btnrental";
-            btnrental.Size = new Size(154, 29);
+            btnrental.Size = new Size(184, 58);
             btnrental.TabIndex = 1;
             btnrental.Text = "Bicycle Rental";
             btnrental.UseVisualStyleBackColor = false;
@@ -59,9 +59,9 @@
             // btnmush
             // 
             btnmush.BackColor = Color.Lime;
-            btnmush.Location = new Point(367, 255);
+            btnmush.Location = new Point(402, 214);
             btnmush.Name = "btnmush";
-            btnmush.Size = new Size(170, 29);
+            btnmush.Size = new Size(186, 58);
             btnmush.TabIndex = 2;
             btnmush.Text = "mushroom Guessing";
             btnmush.UseVisualStyleBackColor = false;
@@ -78,6 +78,7 @@
             Controls.Add(label1);
             Name = "Form2";
             Text = "Choose Application";
+            Load += Form2_Load;
             ResumeLayout(false);
             PerformLayout();
         }
